@@ -14,8 +14,8 @@ Software:
  - IMSAI8080.asm - assembler code
 
  - IMSAI8080_ver.8k.bin - binary for 8k linear memory version
- - IMSAI8080_ver.8k.p001.bin - binary for 8k RAM version, part 1 (0x000-0x07FF). Load to UV EPROM/EEPROM IC DD1.
- - IMSAI8080_ver.8k.p002.bin - binary for 8k RAM version, part 2 (0x800-0x0FFF). Load to UV EPROM/EEPROM IC DD2.
+ - IMSAI8080_ver.8k_p001.bin - binary for 8k RAM version, part 1 (0x000-0x07FF). Load to UV EPROM/EEPROM IC DD1.
+ - IMSAI8080_ver.8k_p002.bin - binary for 8k RAM version, part 2 (0x800-0x0FFF). Load to UV EPROM/EEPROM IC DD2.
 
  - IMSAI8080_ver.32k.bin - binary for 32k linear memory version. Load to UV EPROM/EEPROM IC DD1.
 
