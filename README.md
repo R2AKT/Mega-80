@@ -6,7 +6,7 @@ License addendum - [https://github.com/R2AKT/Mega-80/blob/main/Addendum.txt]
 <img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260426_110219.jpg">
 <img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260425_180723.jpg">
 
-## Hardward:
+## Hardware:
 <img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260519_134014.jpg">
 <img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260519_134025.jpg">
 <img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260519_134033.jpg">
