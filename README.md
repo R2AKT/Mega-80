@@ -2,7 +2,17 @@
 License addendum - [https://github.com/R2AKT/Mega-80/blob/main/Addendum.txt]
 # Mega-80
 
-Mega-80 (Mega-580) project repository.
+## Software:
+<img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260426_110219.jpg">
+<img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260425_180723.jpg">
+
+## Hardward:
+<img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260519_134014.jpg">
+<img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260519_134025.jpg">
+<img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260519_134033.jpg">
+<img src="https://github.com/R2AKT/Mega-80/blob/main/Photo/20260519_134042.jpg">
+
+## Mega-80 (Mega-580) project repositories:
 
 The project is developed using a modular principle. The modules are connected using through-hole male connectors located on the modules.
 Currently, the following modules have been developed:
