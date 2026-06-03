@@ -28,6 +28,8 @@ Currently, the following modules have been developed:
  - https://github.com/R2AKT/PIC - at the verification stage;
  - https://github.com/R2AKT/LPT - in production. Not tested!
  - https://github.com/R2AKT/SysTick - in production. Not tested!
+ - https://github.com/R2AKT/KBD - in production. Not tested!
+ - https://github.com/R2AKT/GPIO24 - in production. Not tested!
 
 Проект по созданию самодельного 8-разрядного микрокомпьютера на базе микропроцессорного комплекта K580 (Intel 8080).
 
@@ -44,4 +46,6 @@ Currently, the following modules have been developed:
  - https://github.com/R2AKT/power_unit - проверено;
  - https://github.com/R2AKT/PIC - на этапе проверки;
  - https://github.com/R2AKT/LPT - изготовливается. Не тестировалась!
- - https://github.com/R2AKT/SysTick - in production. Not tested!
+ - https://github.com/R2AKT/SysTick - изготовливается. Не тестировалась!
+ - https://github.com/R2AKT/KBD - изготовливается. Не тестировалась!
+ - https://github.com/R2AKT/GPIO24 - изготовливается. Не тестировалась!
