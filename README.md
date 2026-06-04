@@ -18,34 +18,37 @@ The project is developed using a modular principle. The modules are connected us
 Currently, the following modules have been developed:
  - https://github.com/R2AKT/CPU_8080 - tested;
  - https://github.com/R2AKT/flat_mem_8k - tested;
- - https://github.com/R2AKT/ROM_Disk - at the verification stage;
+ - https://github.com/R2AKT/ROM_Disk - under testing;
  - https://github.com/R2AKT/USART - tested;
- - https://github.com/R2AKT/RTC - at the verification stage;
+ - https://github.com/R2AKT/RTC - under testing;
  - https://github.com/R2AKT/Stepper - tested;
  - https://github.com/R2AKT/APU9511 - tested;
  - https://github.com/R2AKT/STD-IO - tested;
  - https://github.com/R2AKT/power_unit - tested;
- - https://github.com/R2AKT/PIC - at the verification stage;
+ - https://github.com/R2AKT/PIC - under testing;
  - https://github.com/R2AKT/LPT - in production. Not tested!
  - https://github.com/R2AKT/SysTick - in production. Not tested!
  - https://github.com/R2AKT/KBD - in production. Not tested!
  - https://github.com/R2AKT/GPIO24 - in production. Not tested!
-
+ - https://github.com/R2AKT/WRQ - under testing.
+   
 Проект по созданию самодельного 8-разрядного микрокомпьютера на базе микропроцессорного комплекта K580 (Intel 8080).
 
 Проект разработан с применением модульного принципа. Соединение модулей осуществляется через проходные штыревые соединители, размещённые на модулях.
 В настоящее время разработаны следующие модули:
  - https://github.com/R2AKT/CPU_8080 - проверено;
  - https://github.com/R2AKT/flat_mem_8k - проверено;
- - https://github.com/R2AKT/ROM_Disk - на этапе проверки;
+ - https://github.com/R2AKT/ROM_Disk - в стадии тестирования;
  - https://github.com/R2AKT/USART - проверено;
- - https://github.com/R2AKT/RTC - на этапе проверки;
+ - https://github.com/R2AKT/RTC - в стадии тестирования;
  - https://github.com/R2AKT/Stepper - проверено;
  - https://github.com/R2AKT/APU9511 - проверено;
  - https://github.com/R2AKT/STD-IO - проверено;
  - https://github.com/R2AKT/power_unit - проверено;
- - https://github.com/R2AKT/PIC - на этапе проверки;
+ - https://github.com/R2AKT/PIC - в стадии тестирования;
  - https://github.com/R2AKT/LPT - изготовливается. Не тестировалась!
  - https://github.com/R2AKT/SysTick - изготовливается. Не тестировалась!
  - https://github.com/R2AKT/KBD - изготовливается. Не тестировалась!
  - https://github.com/R2AKT/GPIO24 - изготовливается. Не тестировалась!
+ - https://github.com/R2AKT/WRQ - в стадии тестирования.
+
